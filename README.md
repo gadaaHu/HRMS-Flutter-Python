@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HRMS-Flutter
 
 This is Human Resource Management App for office
@@ -52,3 +53,7 @@ Google Play Store link: https://play.google.com/store/apps/details?id=com.tys.ea
 
 </tr>
 </table>
+=======
+# HRMS-Flutter-Python
+HRMS-Flutter-python
+>>>>>>> 1eca6ef0ee1b0fcfcdf463e9ce5b6a09ee821141
